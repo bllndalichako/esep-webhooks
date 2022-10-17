@@ -1,2 +1,0 @@
-# esep-webhooks
-Event architecture
